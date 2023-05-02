@@ -151,9 +151,7 @@ void main(void) {
                 else if ( Rotational_Velocity > 500){
                     spin_motor_cw();
                     LED_3_SetHigh();
-                }
-                
-                
+                }              
             }
         }
     }
